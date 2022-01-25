@@ -1,0 +1,12 @@
+{
+    "description": "Attraction Project",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Flights\\": "src/"
+        }
+    }
+}
